@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hosting: https://covid-19-tracker-e267b.web.app/
+
+Thanks to Sony and Naz from the youtube channel "Clever Programmer"! These guys are Lit!
+Live Stream Link: https://www.youtube.com/watch?v=cF3pIMJUZxM
 
 ## Available Scripts
 
