@@ -1,3 +1,5 @@
+### MADE WITH REACT, Disease.sh API and Material UI
+
 Hosting: https://covid-19-tracker-e267b.web.app/
 
 Thanks to Sony and Naz from the youtube channel "Clever Programmer"! These guys are Lit!
