@@ -1,4 +1,4 @@
-### MADE WITH REACT, Disease.sh API and Material UI
+### MADE WITH REACT, Disease.sh API, and Material UI
 
 Hosting: https://covid-19-tracker-e267b.web.app/
 
